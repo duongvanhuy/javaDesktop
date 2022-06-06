@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/BEAN/MatHang.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/BEAN/PhieuNhap.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/BEAN/DoanhThu.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/DAO/ImageHelper.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/BEAN/User.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/BEAN/NhanVien.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/BEAN/ChiNhanh.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/DB/Connection_to_SQLServer.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/test/BEAN/PhieuNhapTest.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/view/Main.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/DAO/DonhangDAO.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/BEAN/DonHang.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/BEAN/HoaDon.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/DAO/HoaDonDao.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/view/FormLogin.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/service/MathangService.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/DAO/SanPhamDAO.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/projectDestop/src/DAO/NhanVien_DAO.java</file>
+        </group>
+    </open-files>
+</project-private>
